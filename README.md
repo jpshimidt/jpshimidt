@@ -1,6 +1,6 @@
 ## Oi! Eu sou o João Pedro!
 
-- 🔭 Hoje sou estagiário XP Inc. dentra da Tribo Bull com C# e Xamarin
+- 🔭 Hoje sou estagiário na XP Inc. dentro da Tribo Bull e trabalho com C# e Xamarin
 - 🌱 Estudando C# e apanhando de Xamarin
 
 <div align="center">

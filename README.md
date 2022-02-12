@@ -1,7 +1,7 @@
 ## Oi! Eu sou o João Pedro!
 
 - 🔭 Hoje sou estagiário na XP Inc. dentro da Tribo Bull e trabalho com C# e Xamarin
-- 🌱 Estudando Android (Kotlin) e Ciência de Dados
+- 🌱 Estudando Android (Kotlin) e Ciência de Dados (Python)
 
 <div align="center">
   <a href="https://github.com/jpshimidt">

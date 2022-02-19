@@ -1,7 +1,7 @@
 ## Oi! Eu sou o João Pedro!
 
 - 🔭 Hoje sou estagiário na XP Inc. dentro da Tribo Bull e trabalho com C# e Xamarin
-- 🌱 Estudando Android (Kotlin) e Ciência de Dados (Python)
+- 🌱 Estudando Ciência de Dados (Python)
 
 <div align="center">
   <a href="https://github.com/jpshimidt">
@@ -11,8 +11,8 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Joao-Python" height="28" width="104" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img align="center" alt="Joao-Xamarin" height="28" width="104" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white">
-  <img align="center" alt="Joao-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>

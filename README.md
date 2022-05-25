@@ -1,6 +1,6 @@
 ## Oi! Eu sou o João Pedro!
 
-- 🔭 Hoje sou estagiário na XP Inc. dentro da Tribo Bull e trabalho com C# e Xamarin
+- 🔭 Hoje sou Software Engineer II na XP Inc. dentro da Tribo Bull e trabalho com C# e Xamarin
 - 🌱 Estudando Ciência de Dados (Python)
 
 <div align="center">

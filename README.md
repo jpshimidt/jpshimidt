@@ -1,7 +1,6 @@
 ## Oi! Eu sou o João Pedro!
 
 - 🔭 Hoje sou Software Engineer II na XP Inc. dentro da Cash Corretora e trabalho com C#
-- 🌱 Estudando Flutter
 
 <div align="center">
   <a href="https://github.com/jpshimidt">

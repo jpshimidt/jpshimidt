@@ -1,6 +1,6 @@
 ## Oi! Eu sou o João Pedro!
 
-- 🔭 Hoje sou Software Engineer II na XP Inc. dentro da Cash Corretora e trabalho com C#
+- 🔭 Hoje sou Software Engineer II na XP Inc. dentro da Cash Corretora, atualmente trabalho com .NET (C#) e Node(Typescript) para criação e manutenção em microsserviços/APIs.
 
 <div align="center">
   <a href="https://github.com/jpshimidt">

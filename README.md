@@ -1,19 +1,30 @@
-## Oi! Eu sou o João Pedro!
+## 👋 Oi! Eu sou o João Pedro
 
-- 🔭 Hoje sou Software Engineer II na XP Inc. dentro da Cash Corretora, atualmente trabalho com .NET (C#) e Node(Typescript) para criação e manutenção em microsserviços/APIs.
+Sou **Software Engineer III** especializado em **.NET | C# | Azure | Microsserviços | Kafka**.  
+Tenho paixão por construir sistemas resilientes e escaláveis, especialmente no setor financeiro — já participei de projetos como **plataforma de TED**, **motores de transferência** e integrações críticas com o **BACEN**.
 
-<div align="center">
-  <a href="https://github.com/jpshimidt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpshimidt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpshimidt&layout=compact&langs_count=7&theme=dark"/>
+Minha trajetória começou na engenharia mecânica 🛠️, mas encontrei no desenvolvimento de software meu verdadeiro playground para resolver problemas complexos com código limpo, arquitetura sólida e muito café ☕.
+
+---
+
+### 🚀 O que faço hoje
+- Desenvolvimento de **microsserviços e APIs** em .NET e Node.js (TypeScript).  
+- Arquitetura orientada a eventos com **Kafka e RabbitMQ**.  
+- Orquestração e CI/CD com **Azure DevOps**.  
+- Projetos de alta criticidade em **finanças digitais**.
+
+---
+
+### 🌱 Sempre aprendendo
+Sou curioso por natureza — atualmente explorando mais sobre **arquitetura de software** e brincando com novas linguagens.  
+Acredito em **crescimento contínuo**, colaboração e bom humor no dia a dia de trabalho 😄.
+
+---
+
+### 📫 Vamos conversar!
+<div>
+  <a href="mailto:jp.shimidt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/joaopedroshimidtvasconcelos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:jp.shimidt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3ovasconcelos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/jpshimidt/jpshimidt/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
+---

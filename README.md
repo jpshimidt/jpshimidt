@@ -1,30 +1,56 @@
-## 👋 Oi! Eu sou o João Pedro
+# 👋 Olá, eu sou João Pedro Shimidt (jpshimidt)
 
-Sou **Software Engineer III** especializado em **.NET | C# | Azure | Microsserviços | Kafka**.  
-Tenho paixão por construir sistemas resilientes e escaláveis, especialmente no setor financeiro — já participei de projetos como **plataforma de TED**, **motores de transferência** e integrações críticas com o **BACEN**.
-
-Minha trajetória começou na engenharia mecânica 🛠️, mas encontrei no desenvolvimento de software meu verdadeiro playground para resolver problemas complexos com código limpo, arquitetura sólida e muito café ☕.
+**Software Engineer III** especializado em **.NET | C# | Azure | Microsserviços | Kafka**.
 
 ---
 
-### 🚀 O que faço hoje
-- Desenvolvimento de **microsserviços e APIs** em .NET e Node.js (TypeScript).  
-- Arquitetura orientada a eventos com **Kafka e RabbitMQ**.  
-- Orquestração e CI/CD com **Azure DevOps**.  
-- Projetos de alta criticidade em **finanças digitais**.
+## Sobre mim
+
+Sou **Software Engineer III**, com experiência no desenvolvimento de sistemas de alta criticidade no setor financeiro. Tenho sólida atuação em **.NET, C#, Azure, microsserviços e mensageria com Kafka**.  
+
+Ao longo da minha carreira, participei de projetos complexos envolvendo **integrações bancárias, orquestração de serviços e arquitetura orientada a eventos**. Sou focado em escrever **código limpo, escalável e de fácil manutenção**, sempre buscando boas práticas e inovação tecnológica.  
 
 ---
 
-### 🌱 Sempre aprendendo
-Sou curioso por natureza — atualmente explorando mais sobre **arquitetura de software** e brincando com novas linguagens.  
-Acredito em **crescimento contínuo**, colaboração e bom humor no dia a dia de trabalho 😄.
+## O que faço hoje
+
+- Desenvolvimento de microsserviços e APIs usando **.NET** e **TypeScript (Node.js)**  
+- Arquitetura orientada a eventos com **Kafka** e **RabbitMQ**  
+- Orquestração e CI/CD usando **Azure DevOps**  
+- Projetos de alta criticidade no setor financeiro  
+- Integrações complexas com sistemas bancários
 
 ---
 
-### 📫 Vamos conversar!
-<div>
-  <a href="mailto:jp.shimidt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaopedroshimidtvasconcelos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 🛠️ Habilidades técnicas
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+Outras áreas: **Docker, CI/CD, Domain-Driven Design, Arquitetura de Microsserviços, Mensageria, Event-Driven Design**
 
 ---
+
+## Vamos nos conectar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedroshimidtvasconcelos/)  
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jp.shimidt@gmail.com)
+
+---
+
+## Estatísticas no GitHub
+
+![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpshimidt&show_icons=true&theme=radical)
+
+---
+
+## Curiosidades
+
+☕ Adoro café enquanto programo  
+🎧 Gosto de podcasts e conteúdo sobre arquitetura de software e boas práticas de desenvolvimento  
+⚽🏀🏐 Amo esportes — literalmente qualquer um!  
+🐱 Pai de muitos gatos

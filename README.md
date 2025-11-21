@@ -42,12 +42,6 @@ Outras áreas: **Docker, CI/CD, Domain-Driven Design, Arquitetura de Microsservi
 
 ---
 
-## Estatísticas no GitHub
-
-![João Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpshimidt&show_icons=true&theme=radical)
-
----
-
 ## Curiosidades
 
 ☕ Adoro café enquanto programo  
